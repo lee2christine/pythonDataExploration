@@ -6,3 +6,8 @@ On Kaggle:
 - Game of Thrones
 - Chocolate Bar Ratings
 - Wine Review
+
+Ruthy added:
+-Finishers Boston Marathon 2017:
+https://www.kaggle.com/rojour/finishers-boston-marathon-2017/data
+(This dataset contains many numerical variables and couple categorial variables)
